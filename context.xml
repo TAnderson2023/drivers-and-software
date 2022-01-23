@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profiles>
+    <Profile Title="sidwinder h-pattern" Guid="08c86e31-3abb-4ff3-9cd0-efe9012a7c98">
+      <ChildProfiles />
+      <Mappings>
+        <Mapping Title="1">
+          <DeviceBindings>
+            <DeviceBinding IsBound="true" DeviceConfigurationGuid="3e6d290f-eab1-45b4-a186-e6c81de68e2c" KeyType="0" KeyValue="0" KeySubValue="0" />
+            <DeviceBinding IsBound="true" DeviceConfigurationGuid="3e6d290f-eab1-45b4-a186-e6c81de68e2c" KeyType="0" KeyValue="4" KeySubValue="0" />
+          </DeviceBindings>
+          <Plugins>
+            <Plugin xsi:type="AxesRangeToButton">
+              <Outputs>
+                <DeviceBinding IsBound="true" DeviceConfigurationGuid="a2002b19-c550-4872-aab1-db7ffc481972" KeyType="1" KeyValue="0" KeySubValue="0" />
+              </Outputs>
+              <Filters />
+              <InvertX>true</InvertX>
+              <InvertY>true</InvertY>
+              <XStart>60</XStart>
+              <XEnd>100</XEnd>
+              <YStart>80</YStart>
+              <YEnd>100</YEnd>
+            </Plugin>
+          </Plugins>
+        </Mapping>
+        <Mapping Title="2">
+          <DeviceBindings>
+            <DeviceBinding IsBound="true" DeviceConfigurationGuid="3e6d290f-eab1-45b4-a186-e6c81de68e2c" KeyType="0" KeyValue="0" KeySubValue="0" />
+            <DeviceBinding IsBound="true" DeviceConfigurationGuid="3e6d290f-eab1-45b4-a186-e6c81de68e2c" KeyType="0" KeyValue="4" KeySubValue="0" />
+          </DeviceBindings>
+          <Plugins>
+            <Plugin xsi:type="AxesRangeToButton">
+              <Outputs>
+                <DeviceBinding IsBound="true" DeviceConfigurationGuid="a2002b19-c550-4872-aab1-db7ffc481972" KeyType="1" KeyValue="1" KeySubValue="0" />
+              </Outputs>
+              <Filters />
+              <InvertX>true</InvertX>
+              <InvertY>true</InvertY>
+              <XStart>60</XStart>
+              <XEnd>100</XEnd>
+              <YStart>-100</YStart>
+              <YEnd>-80</YEnd>
+            </Plugin>
+          </Plugins>
+        </Mapping>
+        <Mapping Title="3">
+          <DeviceBindings>
+            <DeviceBinding IsBound="true" DeviceConfigurationGuid="3e6d290f-eab1-45b4-a186-e6c81de68e2c" KeyType="0" KeyValue="0" KeySubValue="0" />
+            <DeviceBinding IsBound="true" DeviceConfigurationGuid="3e6d290f-eab1-45b4-a186-e6c81de68e2c" KeyType="0" KeyValue="4" KeySubValue="0" />
+          </DeviceBindings>
+          <Plugins>
+            <Plugin xsi:type="AxesRangeToButton">
+              <Outputs>
+                <DeviceBinding IsBound="true" DeviceConfigurationGuid="a2002b19-c550-4872-aab1-db7ffc481972" KeyType="1" KeyValue="2" KeySubValue="0" />
+              </Outputs>
+              <Filters />
+              <InvertX>true</InvertX>
+              <InvertY>true</InvertY>
+              <XStart>-40</XStart>
+              <XEnd>40</XEnd>
+              <YStart>80</YStart>
+              <YEnd>100</YEnd>
+            </Plugin>
+          </Plugins>
+        </Mapping>
+        <Mapping Title="4">
+          <DeviceBindings>
+            <DeviceBinding IsBound="true" DeviceConfigurationGuid="3e6d290f-eab1-45b4-a186-e6c81de68e2c" KeyType="0" KeyValue="0" KeySubValue="0" />
+            <DeviceBinding IsBound="true" DeviceConfigurationGuid="3e6d290f-eab1-45b4-a186-e6c81de68e2c" KeyType="0" KeyValue="4" KeySubValue="0" />
+          </DeviceBindings>
+          <Plugins>
+            <Plugin xsi:type="AxesRangeToButton">
+              <Outputs>
+                <DeviceBinding IsBound="true" DeviceConfigurationGuid="a2002b19-c550-4872-aab1-db7ffc481972" KeyType="1" KeyValue="3" KeySubValue="0" />
+              </Outputs>
+              <Filters />
+              <InvertX>true</InvertX>
+              <InvertY>true</InvertY>
+              <XStart>-40</XStart>
+              <XEnd>40</XEnd>
+              <YStart>-100</YStart>
+              <YEnd>-80</YEnd>
+            </Plugin>
+          </Plugins>
+        </Mapping>
+        <Mapping Title="5">
+          <DeviceBindings>
+            <DeviceBinding IsBound="true" DeviceConfigurationGuid="3e6d290f-eab1-45b4-a186-e6c81de68e2c" KeyType="0" KeyValue="0" KeySubValue="0" />
+            <DeviceBinding IsBound="true" DeviceConfigurationGuid="3e6d290f-eab1-45b4-a186-e6c81de68e2c" KeyType="0" KeyValue="4" KeySubValue="0" />
+          </DeviceBindings>
+          <Plugins>
+            <Plugin xsi:type="AxesRangeToButton">
+              <Outputs>
+                <DeviceBinding IsBound="true" DeviceConfigurationGuid="a2002b19-c550-4872-aab1-db7ffc481972" KeyType="1" KeyValue="4" KeySubValue="0" />
+              </Outputs>
+              <Filters />
+              <InvertX>true</InvertX>
+              <InvertY>true</InvertY>
+              <XStart>-100</XStart>
+              <XEnd>-60</XEnd>
+              <YStart>80</YStart>
+              <YEnd>100</YEnd>
+            </Plugin>
+          </Plugins>
+        </Mapping>
+        <Mapping Title="6">
+          <DeviceBindings>
+            <DeviceBinding IsBound="true" DeviceConfigurationGuid="3e6d290f-eab1-45b4-a186-e6c81de68e2c" KeyType="0" KeyValue="0" KeySubValue="0" />
+            <DeviceBinding IsBound="true" DeviceConfigurationGuid="3e6d290f-eab1-45b4-a186-e6c81de68e2c" KeyType="0" KeyValue="4" KeySubValue="0" />
+          </DeviceBindings>
+          <Plugins>
+            <Plugin xsi:type="AxesRangeToButton">
+              <Outputs>
+                <DeviceBinding IsBound="true" DeviceConfigurationGuid="a2002b19-c550-4872-aab1-db7ffc481972" KeyType="1" KeyValue="5" KeySubValue="0" />
+              </Outputs>
+              <Filters />
+              <InvertX>true</InvertX>
+              <InvertY>true</InvertY>
+              <XStart>-100</XStart>
+              <XEnd>-60</XEnd>
+              <YStart>-100</YStart>
+              <YEnd>-80</YEnd>
+            </Plugin>
+          </Plugins>
+        </Mapping>
+        <Mapping Title="R">
+          <DeviceBindings>
+            <DeviceBinding IsBound="true" DeviceConfigurationGuid="3e6d290f-eab1-45b4-a186-e6c81de68e2c" KeyType="1" KeyValue="48" KeySubValue="0" />
+          </DeviceBindings>
+          <Plugins>
+            <Plugin xsi:type="ButtonToButton">
+              <Outputs>
+                <DeviceBinding IsBound="true" DeviceConfigurationGuid="a2002b19-c550-4872-aab1-db7ffc481972" KeyType="1" KeyValue="6" KeySubValue="0" />
+              </Outputs>
+              <Filters />
+              <Invert>false</Invert>
+            </Plugin>
+          </Plugins>
+        </Mapping>
+      </Mappings>
+      <InputDeviceConfigurations>
+        <DeviceConfiguration Guid="3e6d290f-eab1-45b4-a186-e6c81de68e2c">
+          <Device Title="SideWinder Force Feedback 2 Joystick" ProviderName="SharpDX_DirectInput" DeviceHandle="VID_045E&amp;PID_001B" DeviceNumber="0" />
+          <ShadowDevices />
+        </DeviceConfiguration>
+      </InputDeviceConfigurations>
+      <OutputDeviceConfigurations>
+        <DeviceConfiguration Guid="a2002b19-c550-4872-aab1-db7ffc481972">
+          <Device Title="vJoy Stick 1" ProviderName="Core_vJoyInterfaceWrap" DeviceHandle="0" DeviceNumber="0" />
+          <ShadowDevices />
+        </DeviceConfiguration>
+      </OutputDeviceConfigurations>
+    </Profile>
+  </Profiles>
+</Context>
